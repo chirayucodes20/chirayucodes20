@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  I'm a passionate and driven Computer Science student from India with a love for building things that make a difference. I'm currently diving deep into the fascinating world of <b>Machine Learning</b> while polishing my skills in <b>Data Structures & Algorithms</b>. My goal is to leverage technology to solve real-world problems.
+  <!-- I'm a passionate and driven Computer Science student from India with a love for building things that make a difference. I'm currently diving deep into the fascinating world of <b>Machine Learning</b> while polishing my skills in <b>Data Structures & Algorithms</b>. My goal is to leverage technology to solve real-world problems. -->
 </p>
 
 <br>
