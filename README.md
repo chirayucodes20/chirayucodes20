@@ -1,68 +1,106 @@
-
-
 <h1 align="center">
   Hey there, I'm Chirayu 👋
 </h1>
+
 <h3 align="center">
-  A 3rd Year B.Tech Student | Aspiring Machine Learning Engineer | Full-Stack Enthusiast|SDE Enthusiast
+  🚀 3rd Year B.Tech Student | Aspiring ML Engineer | Full-Stack Developer | SDE Enthusiast
 </h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ChirayuE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChirayuE&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+  Passionate Computer Science student from India 🇮🇳 <br>
+  Exploring the worlds of <b>Machine Learning</b>, <b>Full-Stack Development</b>, and <b>MLOps</b>. <br>
+  I love building impactful projects, solving DSA problems, and creating aesthetic user experiences.
+</p>
+
+---
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+<h3 align="center">🤖 Machine Learning & Data Science</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+<h3 align="center">☁️ MLOps & Databases</h3>
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/MLOps-6A1B9A?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChirayuE&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChirayuE&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/chirayu-sharma-3b9872289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:chirayu01012006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/ChirayuE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <!-- I'm a passionate and driven Computer Science student from India with a love for building things that make a difference. I'm currently diving deep into the fascinating world of <b>Machine Learning</b> while polishing my skills in <b>Data Structures & Algorithms</b>. My goal is to leverage technology to solve real-world problems. -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer"/>
 </p>
 
-<br>
-
--
-
----
-
-<h3 align="center">My Tech Stack & Tools</h3>
-
-<p align="center">
-  <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a> &nbsp;
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a> &nbsp;
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a> &nbsp;
-</p>
-
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a> &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a> &nbsp;
-</p>
-
-<p align="center">
-  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a> &nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a> &nbsp;
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/></a> &nbsp;
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Seaborn-34495E?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/></a> &nbsp;
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a> &nbsp;
-</p>
-
----
-
-
----
-
-
-
----
-
-<h3 align="center">Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chirayu-sharma-3b9872289/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"/></a>
-  <a href="chirayu01012006@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
-  </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="Footer divider"/>
-</p>
+<h3 align="center">
+  ✨ “Code. Learn. Build. Repeat.” ✨
+</h3>
