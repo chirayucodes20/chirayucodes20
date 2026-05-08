@@ -19,12 +19,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Advanced ML Algorithms** and exploring **Deep Learning** with TensorFlow/PyTorch.
-- 👯 I’m looking to collaborate on **Open-Source Machine Learning or Web Development projects**.
-- 👨‍💻 All of my projects are detailed below and available on my repositories.
-- 💬 Ask me about **Python, C++, Data Structures, or anything related to the MERN stack!**
-- 📫 How to reach me: "" chirayu01012006@gmail.com""
-- ⚡ Fun fact: I believe that `while(noSuccess) { tryAgain(); }` is the mantra for life.
+-
 
 ---
 
