@@ -1,100 +1,180 @@
 <h1 align="center">
-  Hey there, I'm Chirayu 👋
+Hi 👋, I'm Chirayu Sharma
 </h1>
 
 <h3 align="center">
-  🚀 3rd Year B.Tech Student | Aspiring ML Engineer | Full-Stack Developer | SDE Enthusiast
+🚀 4th Year B.Tech CSE (AI & ML) | ML Engineer | Data Analyst | Full Stack Developer | SDE Aspirant
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChirayuE&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Analyst;Full+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ChirayuE&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-<h2 align="center">💫 About Me</h2>
+# 💫 About Me
 
-<p align="center">
-  Passionate Computer Science student from India 🇮🇳 <br>
-  Exploring the worlds of <b>Machine Learning</b>, <b>Full-Stack Development</b>, and <b>MLOps</b>. <br>
-  I love building impactful projects, solving DSA problems, and creating aesthetic user experiences.
-</p>
-
----
-
-<h2 align="center">⚡ Tech Stack & Tools</h2>
-
-<h3 align="center">💻 Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript" />
-</p>
-
-<h3 align="center">🌐 Web Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
-
-<h3 align="center">🤖 Machine Learning & Data Science</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-<h3 align="center">☁️ MLOps & Databases</h3>
-
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/MLOps-6A1B9A?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- 🎓 4th Year B.Tech (AI & ML)
+- 💻 Solving DSA on LeetCode
+- 🤖 Building ML & Data Science Projects
+- 📊 Interested in Data Analytics
+- 🌱 Currently learning MLOps & System Design
+- 🎯 Goal → Software Engineer @ Product Based Company
 
 ---
 
+# ⚡ Tech Stack
 
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
+## 👨‍💻 Languages
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/chirayu-sharma-3b9872289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:chirayu01012006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/ChirayuE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript"/>
 
 </p>
 
 ---
 
+## 🌐 Web Development
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" alt="footer"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
+
 </p>
 
-<h3 align="center">
-  ✨ “Code. Learn. Build. Repeat.” ✨
-</h3>
+---
+
+## 🤖 Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
+</p>
+
+---
+
+## ☁️ Databases & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/ChirayuE?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChirayuE&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChirayuE&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirayuE&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/ChirayuE/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/ChirayuE">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chirayu-sharma-3b9872289/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:chirayu01012006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChirayuE&theme=algolia&column=7&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg"/>
+
+</p>
+
+<h2 align="center">
+
+✨ Code • Learn • Build • Repeat ✨
+
+</h2>
