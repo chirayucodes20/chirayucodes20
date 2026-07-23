@@ -99,15 +99,8 @@ Hi 👋, I'm Chirayu Sharma
 
 
 
-# 💻 Most Used Languages
 
-<p align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirayuE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 
 # 🌐 Coding Profiles
@@ -134,11 +127,7 @@ Hi 👋, I'm Chirayu Sharma
 
 ---
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChirayuE&theme=algolia&column=7&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
