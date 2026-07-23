@@ -7,7 +7,7 @@ Hi 👋, I'm Chirayu Sharma
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Analyst;Full+Stack+Developer;Competitive+Programmer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Machine+Learning+Engineer" />
 </p>
 
 <p align="center">
