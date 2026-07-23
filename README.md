@@ -114,11 +114,11 @@ Hi 👋, I'm Chirayu Sharma
 
 <p align="center">
 
-<a href="https://leetcode.com/u/ChirayuE/">
+<a href="https://leetcode.com/u/chirayu_sharma20/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://github.com/ChirayuE">
+<a href="https://github.com/chirayucodes20">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -126,7 +126,7 @@ Hi 👋, I'm Chirayu Sharma
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:chirayu01012006@gmail.com">
+<a href="chirayu01012006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
