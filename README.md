@@ -1,12 +1,13 @@
 <!-- ===================== HERO ===================== -->
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7F5AF0,100:00D9FF&height=180&section=header&text=Chirayu%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20%7C%20Software%20Development&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7F5AF0,100:00D9FF&height=190&section=header&text=Chirayu%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Systems+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Turning+Ideas+into+Real-World+Projects+%F0%9F%9A%80;Solving+Problems+with+Code+%F0%9F%92%BB;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking+%E2%80%A2+Improving+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineer+in+Progress;Building+with+Generative+AI+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+Machine+Learning;Turning+Ideas+into+Real+World+Projects+%F0%9F%9A%80;DSA+%7C+Backend+%7C+Software+Engineering" />
 
 <br><br>
 
