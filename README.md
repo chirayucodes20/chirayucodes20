@@ -1,5 +1,4 @@
-<!-- ===================== HERO ===================== -->
-
+<!-- ========================= HERO ========================= -->
 
 <div align="center">
 
@@ -11,8 +10,16 @@
 
 <br><br>
 
+<h3>🎓 B.Tech CSE (AI & ML) @ VIT Bhopal</h3>
+
+<p>
+Machine Learning • Generative AI • Data Science • Software Development
+</p>
+
+<br>
+
 <a href="https://github.com/chirayucodes20">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chirayu-sharma-3b9872289/">
@@ -27,15 +34,11 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ChirayuE&style=flat-square&color=00D9FF&label=Visitors"/>
-
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ========================= ABOUT ========================= -->
 
 ## 🧠 About Me
 
@@ -43,29 +46,30 @@
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
 ### 👋 Hey, I'm Chirayu
 
 🎓 **B.Tech CSE (AI & ML)** @ VIT Bhopal
 
-🤖 Passionate about **AI, Machine Learning & Generative AI**
+🤖 Building **Machine Learning & Generative AI** applications
 
-💻 Building applications with **Python, JavaScript & APIs**
+🧠 Exploring **LLMs, RAG, Embeddings & AI Applications**
 
-🧠 Exploring **LLMs, RAG, Embeddings & AI Agents**
+💻 Working with **Python, Java, JavaScript & REST APIs**
 
 📊 Interested in **Data Science & Analytics**
 
 ⚡ Practicing **DSA & Problem Solving**
 
-🚀 Aspiring to build impactful products in the **AI + Software Engineering** space
+🚀 Aspiring to become an **AI / Software Engineer**
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
 
 <br><br>
 
@@ -73,6 +77,7 @@
 <img src="https://img.shields.io/badge/GenAI-7F5AF0?style=for-the-badge"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -80,23 +85,69 @@
 
 ---
 
-<!-- ===================== CURRENTLY ===================== -->
+<!-- ========================= CURRENTLY ========================= -->
 
-## ⚡ Currently
+## ⚡ Currently Working On
 
 <div align="center">
 
-| 🧠 Learning | 🔨 Building | 🎯 Improving |
-|:---:|:---:|:---:|
-| MLOps | AI/ML Projects | DSA |
-| System Design | GenAI Applications | Problem Solving |
-| LLM Applications | RAG Systems | Software Engineering |
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+Machine Learning
+
+<br>
+
+Generative AI
+
+<br>
+
+LLM Applications
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Learning
+
+MLOps
+
+<br>
+
+System Design
+
+<br>
+
+Backend Engineering
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Practicing
+
+DSA
+
+<br>
+
+Problem Solving
+
+<br>
+
+Software Engineering
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 # 🛠️ Tech Arsenal
 
@@ -104,7 +155,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,sql&perline=5"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript&perline=4"/>
 
 </div>
 
@@ -124,7 +175,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3"/>
 
 <br><br>
 
@@ -146,7 +197,7 @@
 <img src="https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -187,8 +238,6 @@
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -205,16 +254,18 @@
 
 <br><br>
 
-FastAPI • LangChain • ChromaDB • Hugging Face • LLMs
+FastAPI • LangChain • ChromaDB • LLMs
 
 <br><br>
 
-AI-powered document assistant capable of answering questions from uploaded documents using **Retrieval-Augmented Generation**.
+AI-powered document assistant that answers questions from uploaded documents using Retrieval-Augmented Generation.
 
 <br><br>
 
 <a href="https://github.com/chirayucodes20/Smart-Document-Assistant-RAG-System">
+
 <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -231,12 +282,14 @@ Python • Scikit-Learn • Machine Learning
 
 <br><br>
 
-Machine learning system for detecting potentially malicious Android applications using static and dynamic behavioral analysis.
+Machine learning framework for detecting potentially malicious Android applications through static and dynamic analysis.
 
 <br><br>
 
 <a href="https://github.com/chirayucodes20">
+
 <img src="https://img.shields.io/badge/View%20Projects-7F5AF0?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -262,7 +315,9 @@ AI application that analyzes journal entries and generates structured insights u
 <br><br>
 
 <a href="https://github.com/chirayucodes20/AI-Mental-Wellness-Assistant">
+
 <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -279,12 +334,14 @@ Node.js • Express • MongoDB • GenAI
 
 <br><br>
 
-AI-powered platform designed to streamline B2B proposal generation and business workflows.
+AI-powered platform designed to streamline B2B proposal generation.
 
 <br><br>
 
 <a href="https://github.com/chirayucodes20/B2B-Proposal-Generator">
+
 <img src="https://img.shields.io/badge/View%20Project-7F5AF0?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </td>
@@ -297,15 +354,13 @@ AI-powered platform designed to streamline B2B proposal generation and business 
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chirayucodes20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7F5AF0&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chirayucodes20&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirayucodes20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirayucodes20&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -313,81 +368,78 @@ AI-powered platform designed to streamline B2B proposal generation and business 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chirayucodes20&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7F5AF0&currStreakLabel=00D9FF"/>
+<img src="https://streak-stats.demolab.com?user=chirayucodes20&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
 ---
-
-<!-- ===================== GITHUB TROPHIES ===================== -->
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chirayucodes20&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chirayucodes20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-# 🐍 Contribution Activity
+# 💻 LeetCode
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chirayucodes20/chirayucodes20/output/github-contribution-grid-snake.svg" width="900"/>
+<img src="https://leetcard.jacoblin.cool/chirayu_sharma20?theme=dark&font=Nunito&ext=contest" width="850"/>
 
 </div>
 
----
-
-<!-- ===================== CODING PROFILES ===================== -->
-
-# 💻 Coding Profiles
+<br>
 
 <div align="center">
 
 <a href="https://leetcode.com/u/chirayu_sharma20/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 
-<a href="https://github.com/chirayucodes20">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-<a href="https://www.linkedin.com/in/chirayu-sharma-3b9872289/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chirayucodes20&theme=tokyo-night&hide_border=true&area=true&custom_title=Chirayu's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chirayucodes20/chirayucodes20/output/github-contribution-grid-snake.svg" width="90%"/>
+
+</div>
+
+---
 
 # 🎯 Current Focus
 
 <div align="center">
 
-```text
-        ┌─────────────────────────────┐
-        │       AI / ML ENGINEERING   │
-        └──────────────┬──────────────┘
-                       │
-          ┌────────────┼────────────┐
-          ↓            ↓            ↓
-       GenAI         RAG          LLMs
-          │            │            │
-          └────────────┼────────────┘
-                       ↓
-                  AI PRODUCTS
-                       │
-          ┌────────────┼────────────┐
-          ↓            ↓            ↓
-        DSA        Backend       MLOps
-          │            │            │
-          └────────────┼────────────┘
-                       ↓
-                SOFTWARE ENGINEER 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Learning+MLOps+%26+System+Design;Solving+DSA+Problems;Preparing+for+Software+Engineering+Roles" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>⚡ Code • Learn • Build • Repeat ⚡</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7F5AF0,100:00D9FF&height=120&section=footer"/>
+
+</div>
