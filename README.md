@@ -374,13 +374,7 @@ AI-powered platform designed to streamline B2B proposal generation.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chirayucodes20&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
 
 ---
 
@@ -406,37 +400,7 @@ AI-powered platform designed to streamline B2B proposal generation.
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chirayucodes20&theme=tokyo-night&hide_border=true&area=true&custom_title=Chirayu's%20Contribution%20Graph" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/chirayucodes20/chirayucodes20/output/github-contribution-grid-snake.svg" width="90%"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Learning+MLOps+%26+System+Design;Solving+DSA+Problems;Preparing+for+Software+Engineering+Roles" />
-
-</div>
-
----
-
-<div align="center">
 
 <h3>⚡ Code • Learn • Build • Repeat ⚡</h3>
 
